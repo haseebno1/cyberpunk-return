@@ -1,0 +1,26 @@
+{
+    "name": "modern-dark-theme",
+    "displayName": "Modern Dark Theme",
+    "description": "A modern and elegant dark theme for VS Code",
+    "version": "0.0.1",
+    "publisher": "AbdulHaseeb",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AbdulHaseeb/modern-dark-theme"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Modern Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme.json"
+            }
+        ]
+    }
+} 
