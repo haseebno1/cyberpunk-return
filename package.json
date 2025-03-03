@@ -1,25 +1,33 @@
 {
-    "name": "modern-dark-theme",
-    "displayName": "Modern Dark Theme",
-    "description": "A modern and elegant dark theme for VS Code",
-    "version": "0.0.1",
-    "publisher": "AbdulHaseeb",
-    "engines": {
-        "vscode": "^1.60.0"
-    },
+    "name": "cyberpunk-return-theme",
+    "displayName": "Cyberpunk Return Theme",
+    "description": "A stunning cyberpunk-inspired VS Code theme with neon colors and futuristic vibes",
+    "version": "1.0.0",
+    "publisher": "abdulhaseeb",
+    "icon": "images/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/AbdulHaseeb/modern-dark-theme"
+        "url": "https://github.com/abdulhaseeb5050/VScode-theme"
+    },
+    "engines": {
+        "vscode": "^1.60.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "cyberpunk",
+        "dark theme",
+        "neon",
+        "synthwave"
+    ],
     "contributes": {
         "themes": [
             {
-                "label": "Modern Dark",
+                "label": "Cyberpunk Return",
                 "uiTheme": "vs-dark",
-                "path": "./themes/theme.json"
+                "path": "./themes/cyberpunk-return.json"
             }
         ]
     }
