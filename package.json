@@ -7,7 +7,7 @@
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/abdulhaseeb5050/VScode-theme"
+        "url": "https://github.com/haseebno1/cyberpunk-return.git"
     },
     "engines": {
         "vscode": "^1.60.0"
@@ -28,6 +28,31 @@
                 "label": "Cyberpunk Return",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cyberpunk-return.json"
+            },
+            {
+                "label": "Cyber Neon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cyber-neon.json"
+            },
+            {
+                "label": "Solar Sands",
+                "uiTheme": "vs-dark",
+                "path": "./themes/solar-sands.json"
+            },
+            {
+                "label": "Pixel Retro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pixel-retro.json"
+            },
+            {
+                "label": "Moonlight Mist",
+                "uiTheme": "vs-dark",
+                "path": "./themes/moonlight-mist.json"
+            },
+            {
+                "label": "Emerald Code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/emerald-code.json"
             }
         ]
     }
